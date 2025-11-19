@@ -1,3 +1,2 @@
- Name: Aishwarya Jadhav
-Reg No: 241081026
+The code prints Hello World!
 
